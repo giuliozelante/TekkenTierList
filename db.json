@@ -1,5 +1,5 @@
 {
-  "characters": [
+  "characters1": [
     {
       "name": "akuma",
       "vote": 0,
@@ -145,6 +145,9 @@
       "vote": 0,
       "voteCount": 0
     },
+   ],
+  "characters2":[
+  
     {
       "name": "lars",
       "vote": 0,
