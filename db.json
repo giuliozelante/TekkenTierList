@@ -1,206 +1,257 @@
 "characters": [
   {
     "name": "akuma",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "alisa",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "anna",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "armor king",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "asuka",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "bob",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "bryan",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "claudio",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "devil jin",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "dragunov",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "eddy",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "eliza",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "fahkumram",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "feng",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "ganryu",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "geese",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "gigas",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "heihachi",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "hwoarang",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "jack-7",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "jin",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "josie",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "julia",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "katarina",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "kazumi",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "kazuya",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "king",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "kuma",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "kunimitsu",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "lars",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "law",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "lee",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "lei",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "leo",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "leroy",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "lidia",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "lili",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "lucky chloe",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "marduk",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "master raven",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "miguel",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "negan",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "nina",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "noctis",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "panda",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "paul",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "shaheen",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "steve",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "xiaoyu",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "yoshimitsu",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   },
   {
     "name": "zafina",
-    "vote": 0
+    "vote": 0,
+    "voteCount": 0
   }
 ]
